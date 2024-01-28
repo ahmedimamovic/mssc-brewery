@@ -1,2 +1,5 @@
-package ahmed.springframework.msscbrewery.web.model.v2;public enum BeerStyleEnum {
+package ahmed.springframework.msscbrewery.web.model.v2;
+
+public enum BeerStyleEnum {
+    TUZLANSKO_NULARICA, SARAJEVSKO_NULARICA, PAN_NULARICA, NEKA_NULARICA, NEKA_2_NULARICA, LAGER, PILSNER,STOUT, GOSE, PORTER, ALE, WHEAT, IPA, PALE_ALE, SAISON;
 }
